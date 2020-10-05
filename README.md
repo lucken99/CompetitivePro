@@ -1,5 +1,7 @@
 ### Collection of programs useful for Competitive Programming
 
+[☆ Must Read](important.md)
+
 * [Hello](hello.cpp)
 * [Max Number using N digits](max_num_using_n_digits.cpp)
 * [Range Query Update](range_query.cpp)
