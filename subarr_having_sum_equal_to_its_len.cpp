@@ -5,6 +5,26 @@ equal to the number of elements in it.
 If all the elements of the array are decremented by 1, then all the subarrays of array arr[] with a sum equal to its number of elements are same as finding the number of subarrays with sum 0 in the new array
 (formed by decrementing all the elements of arr[ ] by 1).
 
+Examples:
+
+Input: N = 3, arr[] = {1, 0, 2}
+Output: 3
+Explanation:
+Total number of subarrays are 6 i.e., {1}, {0}, {2}, {1, 0}, {0, 2}, {1, 0, 2}.
+Out of 6 only three subarrays have the number of elements equals to sum of its elements i.e., 
+1) {1}, sum = 1, length = 1.
+2) {0, 2}, sum = 2, length = 2.
+3) {1, 0, 2}, sum = 3, length = 3.
+
+Input: N = 3, arr[] = {1, 1, 0}
+Output: 3
+Explanation:
+Total number of subarrays are 6 i.e. {1}, {1}, {0}, {1, 1}, {1, 0}, {1, 1, 0}.
+Out of 6 only three subarrays have the number of elements equals to sum of its elements i.e., 
+1) {1}, sum = 1, length = 1.
+2) {1}, sum = 1, length = 1.
+3) {1, 1}, sum = 2, length = 2.
+
 Steps:
 - Decrement all the array elements by 1.
 - Initialize a prefix array with prefix[0] = arr[0].
