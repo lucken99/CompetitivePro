@@ -4,7 +4,7 @@
 
 A lot of good players (Yes!….we are talking about good players) involved in these sports activities not only practice for basketball or cricket or any other game all the time but also spend time in the gym to stay fit. Well, running on a treadmill, lifting weights, doing push-ups, pull-ups does not guarantee you to be successful in sports but it gives you many advantages compared to those who don’t do them.
 
-The same thing happens in software engineering when you enter in the software development world as a competitive programmer…(hope you have got our message that we want to convey through the above example….). 
+The same thing happens in software engineering when you enter in the software development world as a competitive programmer…
 
 Choosing one is not just a confusing decision for computer science students but also it is a difficult decision for experienced developers who are looking for some better opportunities or growth in the companies. Today we will talk about this topic in detail and we will try to sort out this confusion. Before we give any opinion let’ s see what’s the opinion of some engineers working in some big tech giant companies. According to a Microsoft Engineer Satendra Verma, “Although it adds to your skills, a good software engineer requires a lot more than what competitive programming has to offer. Competitive programming is not a necessity for being a good software engineer.” If we talk about the opposite side then a lot of engineers also agreed that taking part in competitive programming helped them in grabbing a job opportunity and become a software engineer.
 
@@ -16,7 +16,7 @@ Isn’t a good developer already a good competitive programmer?
 
 We know that a lot of questions like above are popping up in your mind…the same question again arises…what should I choose and where should I invest my time? 
 
-What if we say that you should choose both and you can become both??….. Let’s have a detailed discussion on this topic now…
+What if we say that you should choose both and you can become both??…
 
 ### Competitive Programming
 The biggest advantage of doing CP is that it makes your life easier and cracking the coding interviews becomes a piece of cake for you. You may face rejection in interviews even if you’re a good software developer but not a good competitive programmer. CP makes you a good problem solver which matters a lot in software development. 
