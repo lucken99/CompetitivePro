@@ -1,6 +1,6 @@
 ### Collection of programs useful for Competitive Programming
 
-[☆ Must Read](important.md)
+[☆ Must Read ☆](IMPORTANT.md)
 
 * [Hello](hello.cpp)
 * [Max Number using N digits](max_num_using_n_digits.cpp)
