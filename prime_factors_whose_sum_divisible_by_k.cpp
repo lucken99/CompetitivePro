@@ -3,6 +3,25 @@ Given an array arr[] of N positive integers and an integer K.
 The task is to create a set of prime numbers such that 
 the sum of all the powers of prime numbers in the prime factorization of all the array elements is divisible by K.
 
+Examples:
+
+Input: arr[] = {1, 2, 3}, K = 1 
+Output: {2, 3} 
+Explanation: 
+2 = 21 
+3 = 31 
+The power of 2 is 1 which is divisible by K(=1). 
+The power of 2 is 1 which is divisible by K(=1).
+Input: arr[] = {2, 2, 4, 8}, K = 10 
+Output: {} 
+Explanation: 
+2 = 21 
+2 = 21 
+4 = 22 
+8 = 23 
+The power of 2 is (1 + 1 + 2 + 3) = 7 which is not divisible by K(=10). 
+Thus, the output empty set.
+
 Steps:
 
 - Create the smallest prime factorization array spf[] up to the maximum number in the array. This step is used to precalculate the prime factors of a number.

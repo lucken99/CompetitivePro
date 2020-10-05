@@ -5,9 +5,21 @@ KL | KL + 1 |…| KR – 1
 where Ki = (arr[i] ^ arr[i+1]) | (arr[i] ~ arr[i+1]), 
 “~” represents binary XNOR, 
 “^” represents binary XOR , 
-“|” represents binary OR 
+“|” represents binary OR
 
-Use Segment Tree or Sparse Table.
+Examples:
+
+Input: arr[] = {5, 2, 3, 0}, Q[][] = {{1, 3}, {0, 2}} 
+Output: 3 7 
+Explanation: 
+Query 1: L = 1, R = 3 : K1 = (2 ^ 3) | (2 ~ 3) = (3 | 2) = 3, K2 = (3 ^ 0) | (3 ~ 0) = (3 | 0) = 3. 
+Therefore, K1 | K2 = (3 | 3) = 3 
+Query 2: L = 0, R = 2 : K0 = 7, K1 = 3. 
+Therefore, K0 | K1 = (7 | 3) = 7
+Input: arr[] = {4, 0, 1, 2}, Q[][] = {{1, 3}} 
+Output: 3 
+
+Using Segment Tree or Sparse Table.
 
 - Taking OR of both of these operations, all the bits up to the largest of the max(MSB(arri), MSB(arri+1)) will be set.
 - Therefore, find the largest number, using Segment Tree, in between the given indices and set all of its bits to 1, 

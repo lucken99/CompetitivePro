@@ -7,6 +7,26 @@ into the largest N-digit number:
 3. Remove the least significant N bits from the number.
 4. Convert this obtained binary number to its decimal form.
 
+Examples:
+
+Input: N = 4
+Output: 9990
+Explanation: 
+Largest 4 digit number = 9999 
+BCD of 9999 = 1001 1001 1001 1001 
+Binary form = 1001100110011001 
+Replacing last 4 bits by 0000: 1001 1001 1001 0000 = 9990 
+Therefore, the minimum N-digit number that can generate 9999 is 9990
+
+Input: N = 5
+Output: 99980
+Explanation: 
+Largest 5 digit number = 99999 
+BCD of 99999 = 1001 1001 1001 1001 1001 
+Binary for = 10011001100110011001 
+Replacing last 5 bits by 00000: 10011001100110000000 = 99980 
+Therefore, the minimum N-digit number that can generate 99999 is 99980
+
 Source: GFG
 */
 
