@@ -1,6 +1,25 @@
 /*
 Given an array A[], for each element in the array, the task is to find the sum of all the previous elements which are strictly greater than the current element.
 
+Examples:
+
+Input: A[] = {2, 6, 4, 1, 7}
+Output: 0 0 6 12 0
+Explanation: 
+For 2 and 6 there is no element greater to it on the left.
+For 4 there is 6.
+For 1 the sum would be 12.
+For 7 there is again no element greater to it.
+
+Input: A[] = {7, 3, 6, 2, 1}
+Output: 0 7 7 16 18
+Explanation: 
+For 7 there is no element greater to it on the left. 
+For 3 there is 7.
+For 6 the sum would be 7.
+For 2 it has to be 7 + 3 + 6 = 16.
+For 1 the sum would be 7 + 3 + 6 + 2 = 18
+
 Using Fenwick Tree:
 
 Traverse the given array and find the sum(say total_sum) of all the elements stored in the Fenwick Tree.
