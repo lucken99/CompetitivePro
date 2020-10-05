@@ -11,3 +11,7 @@
 * [Minimum LCM](pair_with_minimum_LCM.cpp)
 * [Possible unique sum of series](possible_unique_sum_of_series.cpp)
 * [Range sum queries on string](range_sum_queries_on_string.cpp)
+* [Longest Common Prefix](longest_common_prefix.cpp)
+* [Distinct Substrings](distinct_substrings.cpp)
+* [Sum of bit differences](sum_of_bit_differences.cpp)
+* [Maximum Bitwise OR subarray](bitwise_operations_on_subarrays.cpp)
