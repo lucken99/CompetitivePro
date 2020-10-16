@@ -20,3 +20,4 @@
 * [Sum of bit differences](sum_of_bit_differences.cpp)
 * [Maximum Bitwise OR subarray](bitwise_operations_on_subarrays.cpp)
 * [Equal Partition Ways](equal_partition_ways.py)
+* [Stock Span](Stock_span_and_its_variations.cpp)
