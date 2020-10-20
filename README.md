@@ -23,3 +23,4 @@
 * [Stock Span](Stock_span_and_its_variations.cpp)
 * [Water Tapping](Water_tapping_problem.cpp)
 * [Find next greater element](Find_next_greater_element.cpp)
+* [Count set bit using lookup method](Count_set_bit_using_lookup_method.cpp)
