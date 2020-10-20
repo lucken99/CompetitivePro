@@ -21,3 +21,4 @@
 * [Maximum Bitwise OR subarray](bitwise_operations_on_subarrays.cpp)
 * [Equal Partition Ways](equal_partition_ways.py)
 * [Stock Span](Stock_span_and_its_variations.cpp)
+* [Water Tapping](Water_tapping_problem.cpp)
