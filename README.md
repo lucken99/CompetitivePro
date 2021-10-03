@@ -24,3 +24,9 @@
 * [Water Tapping](Water_tapping_problem.cpp)
 * [Find next greater element](Find_next_greater_element.cpp)
 * [Count set bit using lookup method](Count_set_bit_using_lookup_method.cpp)
+
+--------------------------------2021--------------------------------
+
+* [Precision of floating point numbers in C++](Precision_of_floating_point.cpp)
+* [Difference Array](Difference_array.cpp)
+* [Convert an array to reduced form](Convert_an_array_of_reduced_form.cpp)
