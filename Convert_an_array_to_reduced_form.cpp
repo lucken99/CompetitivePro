@@ -36,7 +36,7 @@ int main()
  
     convert(arr , n);
  
-    cout << "\n\nConverted Array is \n";
+    cout << "\n\nreduced array is\n";
     printArr(arr, n);
  
     return 0;
