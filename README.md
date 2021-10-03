@@ -29,4 +29,4 @@
 
 * [Precision of floating point numbers in C++](Precision_of_floating_point.cpp)
 * [Difference Array](Difference_array.cpp)
-* [Convert an array to reduced form](Convert_an_array _of_reduced_form.cpp)
+* [Convert an array to reduced form](Convert_an_array_to_reduced_form.cpp)
